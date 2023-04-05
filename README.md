@@ -6,7 +6,7 @@
      <img src="https://img.shields.io/badge/YouTube-black?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube Channel"/>
   </a>
   <a href="https://www.instagram.com/practical_dev/">
-     <img src="https://img.shields.io/badge/Intagram-black?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Account"/>
+     <img src="https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Account"/>
   </a>
   <a href="https://www.linkedin.com/in/carlos-mauricio-ospino-monsalve-383a42227/">
      <img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkeIn account"/>
