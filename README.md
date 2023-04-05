@@ -21,7 +21,7 @@
 
 ## About me
 
-I'm **Full-Stack Developer** 💻 from Colombia 🇨🇴. I really like coffe!
+I'm **Full-Stack Developer** 💻 from Colombia 🇨🇴. I really like coffee!
 
 Some adittional information:
 
