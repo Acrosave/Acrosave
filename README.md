@@ -9,9 +9,11 @@
      <img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkeIn account"/>
   </a>
   <a href="https://twitter.com/2_calvares">
-     <img src="https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white&style=for-the-badge" alt="TikTok account"/>
+     <img src="https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter account"/>
   </a>
-    
+  <a href="https://www.facebook.com/santiagodres.ma/">
+     <img src="https://img.shields.io/badge/Facebook-black?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook account"/>
+  </a>
 </div>
   <h2>Hi there, I'm Practical Programmer :space_invader: !</h2>
 </div>
